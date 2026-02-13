@@ -8,3 +8,7 @@ youtube-search-python
 youtube_search
 langchain_groq
 langchain_google_genai
+wikipedia
+tavily-python
+langchain_tavily
+yfinance
